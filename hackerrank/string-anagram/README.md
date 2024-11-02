@@ -12,4 +12,4 @@ Eg Input : dictionary -> ['heater', 'cold', 'clod', 'reheat', 'dolc']   query ->
 Eg Output: 3 2 0
 
 Решение:
-![My Image](imagine/group-anagram.png)
+![My Image](../imagine/group-anagram.png)
