@@ -79,4 +79,4 @@ Eg Input : dictionary -> ['heater', 'cold', 'clod', 'reheat', 'dolc']   query ->
 Eg Output: 3 2 0
 
 Решение:
-![My Image](https://www.notion.so/publish-imagine-13268bee9dbc8082a91efc01b6c25753?pvs=4#13268bee9dbc800e90a6d333bdb6c538)
+![My Image](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8f852086-f1cf-47d9-8087-5981230bce0d%2Fc58d8ea9-cd5a-4a28-af73-be2ed3228846%2F1.png?table=block&id=13268bee-9dbc-800e-90a6-d333bdb6c538&spaceId=8f852086-f1cf-47d9-8087-5981230bce0d&width=2000&userId=1e57d001-46b1-42a4-a2ca-39e3eeade87b&cache=v2)
